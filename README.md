@@ -1,0 +1,1 @@
+# testowa_class
